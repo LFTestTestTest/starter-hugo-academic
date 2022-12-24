@@ -1,12 +1,12 @@
 ---
 title: Luca Foschini, PhD
 role: President/CEO
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include machine learning on time-series data, health
+  sensors, and data privacy.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine learning on time-series
+  - Health sensors
+  - Data privacy.
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,13 +16,13 @@ social:
     link: https://twitter.com/calimagna
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=LNtKWuIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/LucaFoschini
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/LucaFoschini
 organizations:
   - name: Sage Bionetworks
     url: https://sagebionetworks.org/
@@ -41,7 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
 I care about improving human health span - the time we get to spend living in good health. 
 I like to build software, hardware, food, and companies. 
 
