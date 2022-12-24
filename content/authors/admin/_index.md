@@ -44,4 +44,4 @@ highlight_name: true
 I care about improving human health span - the time we get to spend living in good health. 
 I like to build software, hardware, food, and companies. 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
