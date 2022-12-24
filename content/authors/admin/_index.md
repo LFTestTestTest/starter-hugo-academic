@@ -1,6 +1,6 @@
 ---
 title: Luca Foschini, PhD
-role: President/CEO, https://sagebionetworks.org/
+role: President/CEO
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/calimagna
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -24,19 +24,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sage Bionetworks
+    url: https://sagebionetworks.org/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computer Science
+      institution: University of California, Santa Barbara
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Computer Engineering
+      institution: Scuola Superiore Sant'Anna, Pisa
+      year: 2007
+    - course: BEng in Computer Engineering
+      institution: Scuola Superiore Sant'Anna, Pisa
+      year: 2001
 email: ""
 superuser: true
 highlight_name: true
