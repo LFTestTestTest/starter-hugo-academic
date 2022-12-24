@@ -4,9 +4,9 @@ role: President/CEO
 bio: My research interests include machine learning on time-series data, health
   sensors, and data privacy.
 interests:
-  - Machine learning on time-series
-  - Health sensors
-  - Data privacy.
+  - Open Science
+  - Machine Learning
+  - Health Sensors.
 social:
   - icon: envelope
     icon_pack: fas
